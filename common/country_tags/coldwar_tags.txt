@@ -1,5 +1,6 @@
 ### Europe ###
 DDR = "countries/German Democratic Republic.txt"
+ANR = "countries/Andorra.txt"
 
 ### Asia ###
 NKR = "countries/North Korea.txt"
