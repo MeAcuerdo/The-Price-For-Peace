@@ -1,0 +1,65 @@
+bookmarks = {
+	bookmark = {
+		name = "IRON_CURTAIN_NAME"
+		desc = "IRON_CURTAIN_DESC"
+		date = 1950.1.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "USA"
+		default = yes
+		"USA" = {
+			history = "USA_IRON_CURTAIN_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"ENG" = {
+			history = "ENG_IRON_CURTAIN_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"GER" = {
+			history = "GER_IRON_CURTAIN_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"DDR" = {
+			history = "DDR_IRON_CURTAIN_DESC"
+			ideology = communism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"PRC" = {
+			history = "PRC_IRON_CURTAIN_DESC"
+			ideology = communism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"SOV" = {
+			history = "SOV_IRON_CURTAIN_DESC"
+			ideology = communism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"---" = {
+			history = "OTHER_IRON_CURTAIN_DESC"
+		}
+		effect = {
+			randomize_weather = 22345            # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

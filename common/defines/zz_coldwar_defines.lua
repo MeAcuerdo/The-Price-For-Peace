@@ -1,5 +1,5 @@
-NDefines.NGame.START_DATE = "1950.01.01.12"
-NDefines.NGame.END_DATE = "1995.01.01.01"
+NDefines.NGame.START_DATE = "1950.1.1.12"
+NDefines.NGame.END_DATE = "1995.1.1.01"
 
 NDefines.NGraphics.MINIMUM_PROVINCE_SIZE_IN_PIXELS = 2
 

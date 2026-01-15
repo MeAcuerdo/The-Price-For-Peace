@@ -1,9 +1,10 @@
 ### Europe ###
 DDR = "countries/German Democratic Republic.txt"
-ANR = "countries/Andorra.txt"
+MOL = "countries/Moldova.txt"
 
 ### Asia ###
 NKR = "countries/North Korea.txt"
 SKR = "countries/South Korea.txt"
 NVT = "countries/North Vietnam.txt"
 SVT = "countries/North Vietnam.txt"
+PRC = "countries/Peoples Republic of China.txt"
