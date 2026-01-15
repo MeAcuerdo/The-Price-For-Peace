@@ -1,0 +1,25 @@
+state = {
+    id = 2
+    name = STATE_2
+    manpower = 21402
+
+    state_category = enclave
+
+    history = {
+        owner = ENG
+        add_core_of = ENG
+        add_claim_by = SPR
+
+        buildings = {
+            infrastructure = 3
+            air_base = 1
+            4135 = {
+                naval_base = 2
+            }
+        }
+    }
+
+    local_supplies = 0
+
+    provinces = { 4135 }
+}

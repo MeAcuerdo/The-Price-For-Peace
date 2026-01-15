@@ -1,0 +1,21 @@
+state = {
+	id = 6
+	name = STATE_6
+	manpower = 31503
+
+	state_category = small_island
+
+	history = {
+		owner = DEN
+		add_core_of = DEN
+
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+	}
+
+	local_supplies = 0
+
+	provinces = { 13003 }
+}
