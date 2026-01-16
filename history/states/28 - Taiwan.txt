@@ -1,0 +1,38 @@
+state={
+	id=28
+	name=STATE_28
+	manpower=3654900
+	state_category = megalopolis
+
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		add_core_of = PRC
+
+		victory_points = {
+			7186 25
+		}
+		victory_points = {
+			11959 5
+		}
+		victory_points = {
+			12068 5
+		}
+		victory_points = {
+			11914 5
+		}
+
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 4
+			7186 = {
+				naval_base = 5
+			}
+		}
+	}
+
+	provinces={
+		1091 1175 4096 7186 7214 9955 11914 11959 12027 12068 
+	}
+}

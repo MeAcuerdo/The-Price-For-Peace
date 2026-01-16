@@ -1,0 +1,34 @@
+state={
+	id=24
+	name= STATE_24
+	manpower=1362865
+
+	state_category = large_town
+
+	history = {
+		owner = ITA
+		add_core_of = ITA
+
+		victory_points = {
+			11773 7
+		}
+		victory_points = {
+			9863 2
+		}
+
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+			11773 = {
+				naval_base = 5
+			}
+			9863 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		902 6891 9772 9863 11755 11773 11824 11874 
+	}
+}

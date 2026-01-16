@@ -1,0 +1,29 @@
+state={
+	id=22
+	name= STATE_22
+	manpower = 2596850
+
+	state_category = large_town
+
+	history = {
+		owner = ENG
+		add_core_of = ENG
+
+		victory_points = {
+			377 5
+		}
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			377 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		253 311 377 407 3274 6363 9364 11361 
+	}
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 16
+	name = STATE_16
+	manpower = 22651
+
+	state_category = wasteland
+
+	history = {
+		owner = SYR
+		add_core_of = SYR
+		add_claim_by = ISR
+
+		buildings = {
+			13490 = {
+				bunker = 2
+			}
+		}
+	}
+
+	provinces = { 13490 }
+}

@@ -1,0 +1,32 @@
+state={
+	id=23
+	name=STATE_23
+	manpower=1377298
+	state_category = large_town
+
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		add_core_of = IRE
+
+		victory_points = {
+			3379 5
+		}
+		victory_points = {
+			385 1
+		}
+
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 1
+			infrastructure = 3
+			3379 = {
+				naval_base = 4
+			}
+		}
+	}
+
+	provinces={
+		276 385 3217 3242 3329 3379 11257
+	}
+}

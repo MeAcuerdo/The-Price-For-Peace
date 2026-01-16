@@ -1,0 +1,27 @@
+state={
+	id=27
+	name=STATE_27
+	manpower=2190
+	state_category = small_island
+
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		add_claim_by = ARG
+
+		victory_points = {
+			12960 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			12960 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		12960 13292 
+	}
+}

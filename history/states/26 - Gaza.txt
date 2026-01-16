@@ -1,0 +1,29 @@
+state={
+	id=26
+	name=STATE_26
+	manpower=243612
+
+	state_category = city
+
+	history = {
+		owner = PAL
+		add_core_of = PAL
+		add_claim_by = ISR
+
+		victory_points = {
+			13416 5
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			13416 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces={
+		13416 
+	}
+}
