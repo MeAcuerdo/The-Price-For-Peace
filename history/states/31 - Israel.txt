@@ -1,0 +1,31 @@
+state = {
+	id = 31
+	name = STATE_31
+	manpower = 1368425
+	state_category = metropolis
+	history = {
+		owner = ISR
+		add_core_of = ISR
+		add_claim_by = PAL
+
+		victory_points = {
+			4206 20
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 2
+			4206 = {
+				naval_base = 2
+			}
+			1015 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = {
+		1015 11970 7176 4088 4206 1201 1065
+	}
+}

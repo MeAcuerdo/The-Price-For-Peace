@@ -1,0 +1,27 @@
+state={
+	id=34
+	name="STATE_34"
+	manpower=404921
+
+	state_category = town
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+
+		victory_points = {
+			11688 2
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			11688 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		738 9703 11688 
+	}
+}

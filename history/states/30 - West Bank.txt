@@ -1,0 +1,16 @@
+state = {
+	id = 30
+	name = STATE_30
+	manpower = 764900
+	state_category = rural
+	history = {
+		owner = PAL
+		add_core_of = PAL
+		add_claim_by = ISR
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = { 13417 7107 }
+}

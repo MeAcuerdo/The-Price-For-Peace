@@ -1,0 +1,35 @@
+state={
+	id=37
+	name="STATE_37"
+	manpower=1706484
+
+	state_category = metropolis
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+		add_core_of = CAT
+
+		victory_points = {
+			9764 25
+		}
+		victory_points = {
+			6966 2
+		}
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			9764 = {
+				naval_base = 6
+				naval_facility = 1
+			}
+		}
+	}
+
+	provinces={
+		854 872 897 3898 6812 6836 6865 6927 6966 9764 9797 9824 11779 
+	}
+}
