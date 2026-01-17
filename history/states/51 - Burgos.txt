@@ -1,0 +1,25 @@
+state={
+	id=51
+	name="STATE_51"
+	manpower=791350
+
+	state_category = town
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+
+		victory_points = {
+			885 20
+		}
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+	}
+
+	provinces={
+		857 884 885 903 3887 9700 9870 9872 11684 11854 13220 13226 
+	}
+}

@@ -1,0 +1,27 @@
+state={
+	id=43
+	name="STATE_43"
+	manpower=1364857
+	state_category = town
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+
+		victory_points = {
+			11851 5
+		}
+		victory_points = {
+			6866 5
+		}
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		809 931 985 3930 6866 6902 6948 6954 9839 9917 9925 11756 11780 11798 11851 13230 
+	}
+}

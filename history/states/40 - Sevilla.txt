@@ -1,0 +1,24 @@
+state={
+	id=40
+	name="STATE_40"
+	manpower=1467387
+	state_category = metropolis
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+
+		victory_points = {
+			7198 20
+		}
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+		}
+	}
+	provinces={
+		1178 3940 4080 4182 6884 7098 7183 9815 9819 9891 11749 12070 13231 
+	}
+}

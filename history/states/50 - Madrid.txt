@@ -1,0 +1,25 @@
+state={
+	id=50
+	name="STATE_50"
+	manpower=1926311
+	state_category = megalopolis
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+
+		victory_points = {
+			3938 50
+		}
+
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 5
+		}
+	}
+	provinces={
+		896 977 3794 3938 9767 
+	}
+}
