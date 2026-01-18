@@ -1,0 +1,24 @@
+state={
+	id=68
+	name="STATE_68"
+	manpower=4278653
+	state_category = city
+
+	history = {
+		owner = DDR
+		add_core_of = DDR
+		add_claim_by = GER
+
+		victory_points = {
+			3522 15
+		}
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		3522 6487 6582 9238 9375 9560 11359 11468 
+	}
+}

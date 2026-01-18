@@ -410,15 +410,15 @@ PAK = {
 }
 DDR = {
     color = rgb { 107 9 9 }
-    color_ui = rgb { 150 180 120 }
+    color_ui = rgb { 107 9 9 }
 }
 KOR = {
 	color = rgb { 255  240  195 }
 	color_ui = rgb { 255 248 229 }	
 }
 ISR = {
-	color = rgb { 152  130  191 }
-	color_ui = rgb { 152  130  191 }
+	color = rgb { 24  104  61 }
+	color_ui = rgb { 24  104  61 }
 }
 D01 = {
 	color = rgb { 122 179 97 }
