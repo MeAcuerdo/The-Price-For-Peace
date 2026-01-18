@@ -1,0 +1,19 @@
+state={
+	id=66
+	name="STATE_66"
+	manpower=1189074
+	state_category = enclave
+
+	history = {
+		owner = DDR
+		add_core_of = DDR
+		add_claim_by = GER
+
+		victory_points = {
+			12467 50
+		}
+	}
+	provinces={
+		13467 
+	}
+}

@@ -6,8 +6,8 @@ state={
 	state_category = metropolis
 
 	history = {
-		owner = SPR
-		add_core_of = SPR
+		owner = SPA
+		add_core_of = SPA
 		add_core_of = CAT
 
 		victory_points = {
