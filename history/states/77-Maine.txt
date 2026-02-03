@@ -1,0 +1,26 @@
+state={
+	id=77
+	name="STATE_77"
+	manpower=913774
+	state_category = town
+
+	history = {
+		owner = USA
+		add_core_of = USA
+
+		victory_points = {
+			3732 10
+		}
+
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			3732 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		1282 1338 3732 4287 6719 7462 10247 10318 12202 12221 12459 
+	}
+}

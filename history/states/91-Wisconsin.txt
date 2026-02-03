@@ -1,0 +1,24 @@
+state={
+	id=91
+	name="STATE_91"
+	manpower=3434575
+
+	state_category = city
+
+	history = {
+		owner = USA
+		add_core_of = USA
+
+		victory_points = {
+			12357 20
+		}
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		703 926 1560 1760 1849 3699 4029 4166 4738 4834 7776 7829 9657 9678 10341 10526 12357 12456 
+	}
+}

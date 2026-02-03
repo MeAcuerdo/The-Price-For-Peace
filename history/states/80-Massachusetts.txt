@@ -1,0 +1,28 @@
+state={
+	id=80
+	name="STATE_80"
+	manpower=4690514
+
+	state_category = city
+
+	history = {
+		owner = USA
+		add_core_of = USA
+
+		victory_points = {
+			6732 30
+		}
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			6732 = {
+				naval_base = 4
+			}
+		}
+	}
+	provinces={
+		715 718 905 908 3710 3906 6732 
+	}
+}

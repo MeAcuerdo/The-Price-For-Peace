@@ -1,0 +1,19 @@
+state={
+	id=76
+	name="STATE_76"
+	manpower=533242
+	state_category = town
+
+	history = {
+		owner = USA
+		add_core_of = USA
+
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		733 3712 3715 10481 
+	}
+}

@@ -1,0 +1,22 @@
+state={
+	id=79
+	name="STATE_79"
+	manpower=791896
+	state_category = rural
+
+	history = {
+		owner = USA
+		add_core_of = USA
+
+		victory_points = {
+			11830 5
+		}
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		11830 
+	}
+}
