@@ -8,7 +8,7 @@ tags={
 	"National Focuses"
 	"Technologies"
 }
-name="A World Divided"
+name="The Price for Peace"
 supported_version="1.17.*"
 replace_path="common/bookmarks"
 replace_path="common/bop"
