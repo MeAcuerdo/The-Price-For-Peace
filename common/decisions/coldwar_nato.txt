@@ -1,0 +1,17 @@
+nato_category = {
+    trigger_article_5 = {
+        available = {
+            any_other_country = {
+                has_dynamic_modifier = nato
+            }
+            has_defensive_war = yes
+            NOT = {
+                has_country_flag = war_outside_of_nato
+            }
+        }
+
+        cost = 5
+
+        days_reenable = 90
+    }
+}

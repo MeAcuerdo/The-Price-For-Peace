@@ -1,0 +1,5 @@
+nato_category = {
+    visible = {
+        has_dynamic_modifier = nato
+    }
+}
