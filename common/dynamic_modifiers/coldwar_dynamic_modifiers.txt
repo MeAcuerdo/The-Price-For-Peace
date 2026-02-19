@@ -1,0 +1,21 @@
+### FACTION NATIONAL SPIRITS ###
+nato = {
+    #todo
+}
+
+warsaw_pact = {
+    #todo
+}
+
+### STATE MODIFIERS ###
+west_berlin = {
+    #todo
+}
+
+the_base_of_democracy = {
+    #todo
+}
+
+moscow_shall_not_fall = {
+    #todo
+}
